@@ -5,13 +5,13 @@
 - 🔐 **Foco Principal**: Masterizar linguagens como pyhton, java, C, SQL e PowerShell e trabalhar na resolução e melhora de segurança cibernética em softwares e sites
 - 📚 **Atualmente aprendendo**: Python  
 - 🎯 **Objetivo**: Unir conhecimento teórico e prático para construir sistemas mais seguros e contribuir para a comunidade de segurança.  
-- 💡 **Curiosidade**: Apaixonoada por leitura e resolução de problemas
+- 💡 **Curiosidade**: Apaixonada por leitura e resolução de problemas
 
 - # **Foco Atual 🔍**
-- - 🛠️ **Projeto em Andamento**:  
-- 📜 **Certificações**: Preparando-me para graduação dentro de 3 anso e meio em Ciências da Computação 
+- - 🛠️ **Projeto em Andamento**: -
+- 📜 **Certificações**: Preparando-me para graduação dentro de 3 anos e meio em Ciências da Computação 
 - 🌱 **Estudos Diários**: Praticando Python para automação de tarefas
 
 - # **Conecte-se comigo! 📫**
-- - 💼 LinkedIn: 
+- - 💼 LinkedIn: https://www.linkedin.com/in/beatriz-vila-nova-772270343/
 - 📧 E-mail: bvn.rc05@gmail.com (Prefiro comunicação segura!)  
