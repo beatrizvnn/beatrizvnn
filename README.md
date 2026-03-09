@@ -9,7 +9,7 @@
 
 - # **Foco Atual 🔍**
 - - 🛠️ **Projeto em Andamento**: -
-- 📜 **Certificações**: Preparando-me para graduação dentro de 3 anos e meio em Ciências da Computação 
+- 📜 **Certificações**: Preparando-me para graduação dentro de 3 anos em Ciências da Computação 
 - 🌱 **Estudos Diários**: Praticando principalmente Python para automação de tarefas, masterizando uso de Excel exercitando minhas habilidades em SQL para extrair e transformar dados com eficiência.
 
 - # **Conecte-se comigo! 📫**
