@@ -2,7 +2,7 @@
 **👩💻 Sou estudante de Ciência da Computação na UniFavip Wyden, amante e futura especialista da área de Cibersegurança. Aqui, compartilho projetos, estudos e ferramentas que desenvolvo enquanto mergulho no universo da tecnologia**
 
 # **Sobre Mim 🎓**
-- 🔐 **Foco Principal**: Masterizar linguagens como pyhton, java, C, SQL e PowerShell e trabalhar na resolução e melhora de segurança cibernética em softwares e sites
+- 🔐 **Foco Principal**: Masterizar linguagens como pyhton, java, SQL e PowerShell e trabalhar na resolução e melhora de segurança cibernética em softwares e sites
 - 📚 **Atualmente aprendendo**: Python, SQL 
 - 🎯 **Objetivo**: Unir conhecimento teórico e prático para construir sistemas mais seguros e contribuir para a comunidade de segurança.  
 - 💡 **Curiosidade**: Apaixonada por leitura e resolução de problemas
